@@ -1,7 +1,7 @@
 
 ## Group Member
 ### 1.Cao Xuejiao
-![](https://github.com/She-xj/She-xj.github.io/blob/master/%E5%A5%B3%E7%94%9F.jpg)
+
 >I am good at organization and communicating 
 >I like running and expolre novel things
 
@@ -25,10 +25,8 @@
 | Coder        | Dond Siyu              |
 | Tester       | Dong Siyu, Cao Xuejiao |
 
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+## Welcome
+We Are Looking Forwoard To Your Joining In!
 
 
 You can use the [editor on GitHub](https://github.com/She-xj/She-xj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
