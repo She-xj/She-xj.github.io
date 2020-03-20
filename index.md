@@ -26,6 +26,10 @@
 | Tester       | Dong Siyu, Cao Xuejiao |
 
 
+### Small image
+
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
 
 You can use the [editor on GitHub](https://github.com/She-xj/She-xj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
