@@ -1,6 +1,7 @@
 
 ## Group Member
 ### 1.Cao Xuejiao
+![](https://github.com/She-xj/She-xj.github.io/blob/master/%E5%A5%B3%E7%94%9F.jpg)
 >I am good at organization and communicating 
 >I like running and expolre novel things
 
