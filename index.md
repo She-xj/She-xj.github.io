@@ -1,5 +1,5 @@
 
-## [] Group Member
+## Group Member
 ### 1.Cao Xuejiao
 >I am good at organization and communicating 
 >I like running and expolre novel things
@@ -11,6 +11,11 @@
 >I'm Dong Siyu, a junior student from TAQ Computer Science Class. I like reading news and playing table tennis. I am interesting in >programming.
 >Role: coder and tester
 
+
+## Role Distribution
+|Role| Names             |
+|:---|:------------------------|
+| PM |                         |
 
 You can use the [editor on GitHub](https://github.com/She-xj/She-xj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
