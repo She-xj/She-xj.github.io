@@ -13,18 +13,17 @@
 
 
 ## Role Distribution
-###### [](#header-6)Header 6
 
-| Role         | Names             |
-|:-------------|:------------------||
-| PM           | good swedish fish ||
-| out of stock | good and plenty   ||
-| ok           | good `oreos`      ||
-| ok           | good `zoute` drop ||
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+
+| Role         | Names                  |
+|:-------------|:-----------------------|
+| PM           | Cao Xuejiao            |
+| Liaison      | Cao Xuejiao            |
+| RA           | Pang Shengyuan         |
+| Arch         | Pang Shengyuan         |
+| Coder        | Dond Siyu              |
+| Tester       | Dong Siyu, Cao Xuejiao |
+
 
 
 You can use the [editor on GitHub](https://github.com/She-xj/She-xj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
