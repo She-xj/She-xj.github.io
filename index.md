@@ -2,19 +2,17 @@
 ## Group Member
 ### 1.Cao Xuejiao
 
->I am good at organization and communicating 
->I like running and expolre novel things
+>I'm Cao Xuejiao, a junior student from TAQ Computer Science Class.I like running and expolre novel things.Besides,I am good at >organization and communicating. I am willing to play the PM ,Liaison, and Coder in our team.
 
 ### 2.Pang Shengyuan
->I am Pang Shengyuan, a student in TAQ class majoring in  Computer and Science.I would like to watch animation and play electronic >games. I am also the RA and the Arch of the team.
+>I am Pang Shengyuan, a junior student from TAQ Computer Science Class.I would like to watch animation and play electronic 
+>games. I am also the RA and the Arch of the team.
 
 ### 3.Dong Siyu
->I'm Dong Siyu, a junior student from TAQ Computer Science Class. I like reading news and playing table tennis. I am interesting in >programming.
->Role: coder and tester
-
+>I'm Dong Siyu, a junior student from TAQ Computer Science Class. I like reading news and playing table tennis. I am interesting in >programming.Thus I play the role of coder and tester in our team.
 
 ## Role Distribution
-
+The chart of the current role distribution is bellow.
 
 | Role         | Names                  |
 |:-------------|:-----------------------|
