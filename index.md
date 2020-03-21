@@ -26,6 +26,6 @@ The chart of the current role distribution is bellow.
 ## Welcome
 ### The Whole Group Is Looking Forwoard To Your Joining In! And I Strongly Believe That We Will Have A Pleasant Learning Time!
 Please Contact With QQ:1205068807  Or  WeChat:13393343270
-
+![](https://github.com/She-xj/She-xj.github.io/blob/master/117408.png)
 ![](https://github.com/She-xj/She-xj.github.io/blob/master/mmexport1584679483264.gif)
 
