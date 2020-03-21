@@ -26,19 +26,7 @@ The chart of the current role distribution is bellow.
 ## Welcome
 ### The Whole Group Is Looking Forwoard To Your Joining In! And I Strongly Believe That We Will Have A Pleasant Learning Time!
 Please Contact With QQ:1205068807  Or  WeChat:13393343270
+
+
 ![](https://github.com/She-xj/She-xj.github.io/blob/master/welcome.gif)
-![](https://github.com/She-xj/She-xj.github.io/blob/master/mmexport1584679483264.gif)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-<!--![Image text](https://raw.githubusercontent.com/wyagd001/wyagd001.github.io/master/img/zfb.png) -->
-
-![Image text](https://autohotkey.com/assets/images/ahk-logo-no-text241x78-180.png)
