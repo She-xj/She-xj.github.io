@@ -1,7 +1,6 @@
 
 ## Group Member
 ### 1.Cao Xuejiao
-
 >I'm Cao Xuejiao, a junior student from TAQ Computer Science Class.I like running and expolre novel things.Besides,I am good at >organization and communicating. I am willing to play the PM ,Liaison, and Coder in our team.
 
 ### 2.Pang Shengyuan
@@ -10,6 +9,9 @@
 
 ### 3.Dong Siyu
 >I'm Dong Siyu, a junior student from TAQ Computer Science Class. I like reading news and playing table tennis. I am interesting in >programming.Thus I play the role of coder and tester in our team.
+
+### 4.Rui Cunha
+>I'm Rui Cunha, a portuguese student wich is attending the course Eletrical and Computer Engineering in UTAD. I also play football on a >semi-prefissonal level and that makes me an active and energetic person. When it comes to development I prefer to work on the back-end >and I would say that my favorite programming language is Java. 
 
 ## Role Distribution
 The chart of the current role distribution is bellow.
@@ -20,7 +22,7 @@ The chart of the current role distribution is bellow.
 | Liaison      | Cao Xuejiao            |
 | RA           | Pang Shengyuan         |
 | Arch         | Pang Shengyuan         |
-| Coder        | Dond Siyu              |
+| Coder        | Dond Siyu, Rui Cunha   |
 | Tester       | Dong Siyu, Cao Xuejiao |
 
 ## Welcome
