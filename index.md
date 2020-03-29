@@ -13,17 +13,20 @@
 ### 4.Rui Cunha
 >I'm Rui Cunha, a portuguese student wich is attending the course Eletrical and Computer Engineering in UTAD. I also play football on a >semi-prefissonal level and that makes me an active and energetic person. When it comes to development I prefer to work on the back-end >and I would say that my favorite programming language is Java. 
 
+### 5.Leonel Coutinho
+>I’m Leonel Coutinho, a Portuguese student at UTAD, currently in the master’s degree in Biomedical Engineering. I was a professional >cyclist 5 years in 15 years of high-performance competition. I love watching movies and series and walking in nature. For me, teamwork, >unity and individual commitment are the key to success. I usually program in Python and Matlab, but the desire to learn more is my >advantage.
+
 ## Role Distribution
 The chart of the current role distribution is bellow.
 
-| Role         | Names                  |
-|:-------------|:-----------------------|
-| PM           | Cao Xuejiao            |
-| Liaison      | Cao Xuejiao            |
-| RA           | Pang Shengyuan         |
-| Arch         | Pang Shengyuan         |
-| Coder        | Dond Siyu, Rui Cunha   |
-| Tester       | Dong Siyu, Cao Xuejiao |
+| Role         | Names                      |
+|:-------------|:---------------------------|
+| PM           | Cao Xuejiao                |
+| Liaison      | Cao Xuejiao                |
+| RA           | Pang Shengyuan             |
+| Arch         | Pang Shengyuan             |
+| Coder        | Dond Siyu, Rui Cunha       |
+| Tester       | Dong Siyu, Leonel Coutinho |
 
 ## Welcome
 ### The Whole Group Is Looking Forwoard To Your Joining In! And I Strongly Believe That We Will Have A Pleasant Learning Time!
